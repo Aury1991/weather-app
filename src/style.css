@@ -36,3 +36,21 @@ li {
 .space {
   margin-bottom: 20px;
 }
+.clearfix-src img {
+  float: left;
+  height: 64px;
+  margin-top: unset;
+  width: 64px;
+}
+.clearfix-src strong {
+  color: rgb(32, 33, 36);
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.clearfix-src .unit {
+  position: relative;
+  font-size: 16px;
+  top: -34px;
+}
