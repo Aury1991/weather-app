@@ -3,7 +3,6 @@ body {
   font-weight: lighter;
 }
 
-}
 h1 {
   color: #878787;
   font-size: 24px;
@@ -26,13 +25,11 @@ li {
 
 .weather-app-wrapper {
   max-width: 600px;
-  margin: 0 auto;
+  margin: 30px auto;
 }
-.containare {
-  padding-bottom: 24px;
-  padding-left: 16px;
-  padding-right: 16px;
-  padding-top: 20px;
+.weather-app {
+  padding: 20px 16px;
   border-radius: 8px;
   border: 1px solid #dfe1e5;
   box-shadow: none;
+}
