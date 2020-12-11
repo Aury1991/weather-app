@@ -1,6 +1,6 @@
 function formatDate(timedate){
     let date= new Date(timedate);
-    let hours= date.getHour();
+    let hours= date.getHours();
     let minutes= date.getMinutes();
     let day= date.getDay();
     return `${day} ${hours}:${minutes}`;
